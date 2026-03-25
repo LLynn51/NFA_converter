@@ -1,0 +1,3 @@
+C:/Users/lymly/Desktop/NFA2DFA/build/CMakeFiles/nfa_tool.dir
+C:/Users/lymly/Desktop/NFA2DFA/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lymly/Desktop/NFA2DFA/build/CMakeFiles/ZERO_CHECK.dir

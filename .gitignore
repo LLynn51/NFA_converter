@@ -1,0 +1,23 @@
+# 忽略 VS Code 配置
+.vscode/
+
+# 忽略 CMake 生成的构建目录（最重要的！）
+build/
+bin/
+obj/
+
+# 忽略编译生成的程序和调试文件
+*.exe
+*.pdb
+*.ilk
+*.idb
+
+# 忽略 VS 生成的临时文件
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.dir
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
