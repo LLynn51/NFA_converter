@@ -2,10 +2,9 @@
  * @Author: LLynn
  * @Date: 2026/3/24 22:52:21
  * @LastEditors: LLynn
- * @LastEditTime: 2026/3/25 16:32:09
+ * @LastEditTime: 2026/4/8 13:25:04
  * @Description:
  * @Copyright: Copyright (©)}) 2026 LLynn. All rights reserved.
- * @Email: linyumian51@gmail.com
  */
 #ifndef CONVERTER_H
 #define CONVERTER_H

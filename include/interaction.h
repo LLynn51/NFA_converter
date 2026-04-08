@@ -2,10 +2,9 @@
  * @Author: LLynn
  * @Date: 2026/3/24 22:52:13
  * @LastEditors: LLynn
- * @LastEditTime: 2026/3/25 17:04:48
+ * @LastEditTime: 2026/4/8 13:25:07
  * @Description:
  * @Copyright: Copyright (©)}) 2026 LLynn. All rights reserved.
- * @Email: linyumian51@gmail.com
  */
 #ifndef INTERACTION_H
 #define INTERACTION_H

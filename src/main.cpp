@@ -2,10 +2,9 @@
  * @Author: LLynn
  * @Date: 2026/3/24 13:53:40
  * @LastEditors: LLynn
- * @LastEditTime: 2026/3/25 17:19:38
+ * @LastEditTime: 2026/4/8 13:25:13
  * @Description: 入口函数
  * @Copyright: Copyright (©)}) 2026 LLynn. All rights reserved.
- * @Email: linyumian51@gmail.com
  */
 #include <iostream>
 #include "automata.h"
